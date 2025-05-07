@@ -1,0 +1,120 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 02 May 2025 09:51:21 at https://bgafricasafaris.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://bgafricasafaris.com/ -O1 "C:\My Web Sites\mdundo" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:53:31	Error: 	"Not Found" (404) at link https://bgafricasafaris.com/cdn-cgi/l/email-protection (from https://bgafricasafaris.com/)
+10:02:20	Warning: 	Moved Permanently for https://bgafricasafaris.com/?p=501
+10:02:20	Warning: 	File has moved from https://bgafricasafaris.com/?p=501 to https://bgafricasafaris.com/about-us/
+10:02:20	Warning: 	Moved Permanently for https://bgafricasafaris.com/?p=3022
+10:02:20	Warning: 	File has moved from https://bgafricasafaris.com/?p=3022 to https://bgafricasafaris.com/safaris-from-mombasa/
+10:02:21	Warning: 	Moved Permanently for https://bgafricasafaris.com/?p=3030
+10:02:21	Warning: 	File has moved from https://bgafricasafaris.com/?p=3030 to https://bgafricasafaris.com/safaris-from-nairobi/
+10:02:21	Warning: 	Moved Permanently for https://bgafricasafaris.com/?p=518
+10:02:21	Warning: 	File has moved from https://bgafricasafaris.com/?p=518 to https://bgafricasafaris.com/safaris-from-nairobi-to-mombasa/
+10:02:22	Warning: 	Moved Permanently for https://bgafricasafaris.com/?p=516
+10:02:22	Warning: 	File has moved from https://bgafricasafaris.com/?p=516 to https://bgafricasafaris.com/safaris-from-mombasa-to-nairobi/
+10:02:23	Warning: 	Moved Permanently for https://bgafricasafaris.com/?p=520
+10:02:23	Warning: 	File has moved from https://bgafricasafaris.com/?p=520 to https://bgafricasafaris.com/safaris-from-diani/
+10:02:29	Warning: 	Moved Permanently for https://bgafricasafaris.com/?p=529
+10:02:29	Warning: 	File has moved from https://bgafricasafaris.com/?p=529 to https://bgafricasafaris.com/yacht-tours/
+10:02:29	Warning: 	Moved Permanently for https://bgafricasafaris.com/?p=521
+10:02:29	Warning: 	File has moved from https://bgafricasafaris.com/?p=521 to https://bgafricasafaris.com/beach-tours/
+10:02:29	Warning: 	Moved Permanently for https://bgafricasafaris.com/?p=2353
+10:02:29	Warning: 	File has moved from https://bgafricasafaris.com/?p=2353 to https://bgafricasafaris.com/hiking-trekking-safaris-2/
+10:02:30	Warning: 	Moved Permanently for https://bgafricasafaris.com/?p=2518
+10:02:30	Warning: 	File has moved from https://bgafricasafaris.com/?p=2518 to https://bgafricasafaris.com/hot-air-balloon-safaris/
+10:02:30	Warning: 	Moved Permanently for https://bgafricasafaris.com/?p=534
+10:02:30	Warning: 	File has moved from https://bgafricasafaris.com/?p=534 to https://bgafricasafaris.com/kenya-national-parks/
+10:02:30	Warning: 	Moved Permanently for https://bgafricasafaris.com/?p=535
+10:02:30	Warning: 	File has moved from https://bgafricasafaris.com/?p=535 to https://bgafricasafaris.com/kenya-conservancies/
+10:02:32	Warning: 	Moved Permanently for https://bgafricasafaris.com/?p=1769
+10:02:32	Warning: 	File has moved from https://bgafricasafaris.com/?p=1769 to https://bgafricasafaris.com/lodges-camps/
+10:04:53	Warning: 	Moved Permanently for https://bgafricasafaris.com/?p=2868
+10:04:53	Warning: 	File has moved from https://bgafricasafaris.com/?p=2868 to https://bgafricasafaris.com/mombasa-excursions/
+10:05:35	Warning: 	Moved Permanently for https://bgafricasafaris.com/?p=2018
+10:05:35	Warning: 	File has moved from https://bgafricasafaris.com/?p=2018 to https://bgafricasafaris.com/nairobi-excursions-2/
+10:05:36	Warning: 	Moved Permanently for https://bgafricasafaris.com/?p=550
+10:05:36	Warning: 	File has moved from https://bgafricasafaris.com/?p=550 to https://bgafricasafaris.com/tour-safaris/
+10:05:36	Warning: 	Moved Permanently for https://bgafricasafaris.com/?p=552
+10:05:36	Warning: 	File has moved from https://bgafricasafaris.com/?p=552 to https://bgafricasafaris.com/hotel-bookings/
+10:05:36	Warning: 	Moved Permanently for https://bgafricasafaris.com/?p=562
+10:05:36	Warning: 	File has moved from https://bgafricasafaris.com/?p=562 to https://bgafricasafaris.com/excursions-2/
+10:05:36	Warning: 	Moved Permanently for https://bgafricasafaris.com/?p=554
+10:05:36	Warning: 	File has moved from https://bgafricasafaris.com/?p=554 to https://bgafricasafaris.com/beach-tours-2/
+10:05:36	Warning: 	Moved Permanently for https://bgafricasafaris.com/?p=564
+10:05:36	Warning: 	File has moved from https://bgafricasafaris.com/?p=564 to https://bgafricasafaris.com/hiking-trekking/
+10:05:36	Warning: 	Moved Permanently for https://bgafricasafaris.com/?p=570
+10:05:36	Warning: 	File has moved from https://bgafricasafaris.com/?p=570 to https://bgafricasafaris.com/airport-sgr-transfers/
+10:05:36	Warning: 	Moved Permanently for https://bgafricasafaris.com/?p=559
+10:05:36	Warning: 	File has moved from https://bgafricasafaris.com/?p=559 to https://bgafricasafaris.com/fishing-tours/
+10:05:36	Warning: 	Moved Permanently for https://bgafricasafaris.com/?p=558
+10:05:36	Warning: 	File has moved from https://bgafricasafaris.com/?p=558 to https://bgafricasafaris.com/hot-air-balloon-tours/
+10:05:36	Warning: 	Moved Permanently for https://bgafricasafaris.com/?p=566
+10:05:36	Warning: 	File has moved from https://bgafricasafaris.com/?p=566 to https://bgafricasafaris.com/m-i-c-e/
+10:05:36	Warning: 	Moved Permanently for https://bgafricasafaris.com/?p=3361
+10:05:36	Warning: 	File has moved from https://bgafricasafaris.com/?p=3361 to https://bgafricasafaris.com/blissgames-africa-safaris-booking-terms/
+10:05:36	Warning: 	Moved Permanently for https://bgafricasafaris.com/?p=512
+10:05:36	Warning: 	File has moved from https://bgafricasafaris.com/?p=512 to https://bgafricasafaris.com/gallery/
+10:05:37	Warning: 	Moved Permanently for https://bgafricasafaris.com/?p=514
+10:05:37	Warning: 	File has moved from https://bgafricasafaris.com/?p=514 to https://bgafricasafaris.com/contact-us/
+10:05:37	Warning: 	Moved Permanently for https://bgafricasafaris.com/?p=3273
+10:05:37	Warning: 	File has moved from https://bgafricasafaris.com/?p=3273 to https://bgafricasafaris.com/frequently-asked-africa-safari-questions/
+10:05:37	Warning: 	Moved Permanently for https://bgafricasafaris.com/?p=2107
+10:05:37	Warning: 	File has moved from https://bgafricasafaris.com/?p=2107 to https://bgafricasafaris.com/2-days-tsavo-east-and-tsavo-west-tour/
+10:05:37	Warning: 	Moved Permanently for https://bgafricasafaris.com/?p=2089
+10:05:37	Warning: 	File has moved from https://bgafricasafaris.com/?p=2089 to https://bgafricasafaris.com/2-day-trip-to-amboseli-national-park/
+10:05:37	Warning: 	Moved Permanently for https://bgafricasafaris.com/?p=2050
+10:05:37	Warning: 	File has moved from https://bgafricasafaris.com/?p=2050 to https://bgafricasafaris.com/4-days-masai-mara-and-lake-nakuru-tour/
+10:05:37	Warning: 	Moved Permanently for https://bgafricasafaris.com/?p=2994
+10:05:37	Warning: 	File has moved from https://bgafricasafaris.com/?p=2994 to https://bgafricasafaris.com/3-days-amboseli-and-tsavo-east-nairobi-mombasa/
+10:05:37	Warning: 	Moved Permanently for https://bgafricasafaris.com/?p=2168
+10:05:37	Warning: 	File has moved from https://bgafricasafaris.com/?p=2168 to https://bgafricasafaris.com/3-days-2-nights-amboseli-national-park/
+10:05:37	Warning: 	Moved Permanently for https://bgafricasafaris.com/?p=2198
+10:05:37	Warning: 	File has moved from https://bgafricasafaris.com/?p=2198 to https://bgafricasafaris.com/9-days-8nights-amboseli-l-naivasha-l-nakuru-and-masaii-mara/
+10:05:37	Warning: 	Moved Permanently for https://bgafricasafaris.com/?p=2790
+10:05:37	Warning: 	File has moved from https://bgafricasafaris.com/?p=2790 to https://bgafricasafaris.com/4-days-tsavo-west-amboseli-and-tsavo-east-tourmombasa-mombasa/
+10:05:37	Warning: 	Moved Permanently for https://bgafricasafaris.com/?p=2813
+10:05:37	Warning: 	File has moved from https://bgafricasafaris.com/?p=2813 to https://bgafricasafaris.com/5-days-tsavo-east-tsavo-west-and-amboseli-mombasa-nairobi/
+10:05:37	Warning: 	Moved Permanently for https://bgafricasafaris.com/?p=2832
+10:05:37	Warning: 	File has moved from https://bgafricasafaris.com/?p=2832 to https://bgafricasafaris.com/3-days-tsavo-east-and-taita-hills-mombasa-mombasa/
+10:05:37	Warning: 	Moved Permanently for https://bgafricasafaris.com/?p=2848
+10:05:37	Warning: 	File has moved from https://bgafricasafaris.com/?p=2848 to https://bgafricasafaris.com/6-days-tsavo-east-amboseli-l-nakuru-and-masai-mara-mombasa-mombasa/
+10:05:38	Warning: 	Moved Permanently for https://bgafricasafaris.com/?p=2960
+10:05:38	Warning: 	File has moved from https://bgafricasafaris.com/?p=2960 to https://bgafricasafaris.com/6-days-mombasa-amboseli-naivasha-masai-mara-nairobi-mombasa-nairobi/
+10:05:38	Warning: 	Moved Permanently for https://bgafricasafaris.com/?p=2968
+10:05:38	Warning: 	File has moved from https://bgafricasafaris.com/?p=2968 to https://bgafricasafaris.com/3-days-masai-mara-fly-in-mombasa-mombasa-fly-in-safaris/
+10:05:38	Warning: 	Moved Permanently for https://bgafricasafaris.com/?p=2974
+10:05:38	Warning: 	File has moved from https://bgafricasafaris.com/?p=2974 to https://bgafricasafaris.com/3-days-masai-mara-safari/
+10:05:38	Warning: 	Moved Permanently for https://bgafricasafaris.com/?p=2982
+10:05:38	Warning: 	File has moved from https://bgafricasafaris.com/?p=2982 to https://bgafricasafaris.com/5-days-amboseli-tsavo-west-and-tsavo-east-nbo-msa/
+10:05:38	Warning: 	Moved Permanently for https://bgafricasafaris.com/?p=3006
+10:05:38	Warning: 	File has moved from https://bgafricasafaris.com/?p=3006 to https://bgafricasafaris.com/2-days-tsavo-east-tour-diani-diani/
+10:05:38	Warning: 	Moved Permanently for https://bgafricasafaris.com/?p=538
+10:05:38	Warning: 	File has moved from https://bgafricasafaris.com/?p=538 to https://bgafricasafaris.com/masai-mara-lodges-camps/
+10:05:38	Warning: 	Moved Permanently for https://bgafricasafaris.com/?p=1464
+10:05:38	Warning: 	File has moved from https://bgafricasafaris.com/?p=1464 to https://bgafricasafaris.com/l-nakuru-lodges-camps/
+10:05:38	Warning: 	Moved Permanently for https://bgafricasafaris.com/?p=1505
+10:05:38	Warning: 	File has moved from https://bgafricasafaris.com/?p=1505 to https://bgafricasafaris.com/l-naivasha-lodges-camps/
+10:05:38	Warning: 	Moved Permanently for https://bgafricasafaris.com/?p=1559
+10:05:38	Warning: 	File has moved from https://bgafricasafaris.com/?p=1559 to https://bgafricasafaris.com/amboseli-lodges-camps/
+10:05:38	Warning: 	Moved Permanently for https://bgafricasafaris.com/?p=1614
+10:05:38	Warning: 	File has moved from https://bgafricasafaris.com/?p=1614 to https://bgafricasafaris.com/tsavo-west-lodges-camps/
+10:05:38	Warning: 	Moved Permanently for https://bgafricasafaris.com/?p=1653
+10:05:38	Warning: 	File has moved from https://bgafricasafaris.com/?p=1653 to https://bgafricasafaris.com/tsavo-east-lodges-camps/
+10:05:38	Warning: 	Moved Permanently for https://bgafricasafaris.com/?p=1719
+10:05:38	Warning: 	File has moved from https://bgafricasafaris.com/?p=1719 to https://bgafricasafaris.com/samburu-lodges-camps/
+10:05:38	Warning: 	Moved Permanently for https://bgafricasafaris.com/?p=539
+10:05:38	Warning: 	File has moved from https://bgafricasafaris.com/?p=539 to https://bgafricasafaris.com/mombasa-day-trip/
+10:05:39	Warning: 	Moved Permanently for https://bgafricasafaris.com/?p=1923
+10:05:39	Warning: 	File has moved from https://bgafricasafaris.com/?p=1923 to https://bgafricasafaris.com/wasini-day-trip-2/
+10:05:39	Warning: 	Moved Permanently for https://bgafricasafaris.com/?p=1961
+10:05:39	Warning: 	File has moved from https://bgafricasafaris.com/?p=1961 to https://bgafricasafaris.com/tsavo-east-day-trip-2/
+10:05:39	Warning: 	Moved Permanently for https://bgafricasafaris.com/?p=2000
+10:05:39	Warning: 	File has moved from https://bgafricasafaris.com/?p=2000 to https://bgafricasafaris.com/shimba-hills-day-trip/
+
+HTTrack Website Copier/3.49-2 mirror complete in 14 minutes 19 seconds : 957 links scanned, 901 files written (76814450 bytes overall) [65750923 bytes received at 76543 bytes/sec], 15147138 bytes transferred using HTTP compression in 368 files, ratio 23%, 48.1 requests per connection
+(1 errors, 108 warnings, 0 messages)
